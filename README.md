@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed abdelaziz</h1>
-<h3 align="center">A passionate junior developer from Cairo, Egypt</h3>
+<h3 align="center">A passionate developer from Cairo, Egypt</h3>
 - 📫 How to reach me **m.abdelaziz.hussen@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
